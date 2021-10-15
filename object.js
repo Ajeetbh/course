@@ -280,16 +280,16 @@
 
 
 //nested object
-var user={
-    id:101,
-    email:'abc@gmail.com',
-    personalInfo:{
-        name:'abc',
-        address:{
-            street:"acs",
-            city:'delhi',
-            country:'India'
-        }
-    }
-}
-console.log(user.personalInfo.address.city);
+// var user={
+//     id:101,
+//     email:'abc@gmail.com',
+//     personalInfo:{
+//         name:'abc',
+//         address:{
+//             street:"acs",
+//             city:'delhi',
+//             country:'India'
+//         }
+//     }
+// }
+// console.log(user.personalInfo.address.city);
